@@ -365,7 +365,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 288883301}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 86ded1b438c012043a17c96d3d9e6818, type: 3}
+  m_Script: {fileID: 11500000, guid: eada745dacf19ef44a2bf456163e243c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ThirdPersonCamera
   CameraTarget: {fileID: 2010776066}
@@ -4702,7 +4702,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3cef91e85ea8a284683c12733ba254c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::levelSwitch
-  nextLevel: testScene
+  nextLevel: RonanScene
 --- !u!65 &939584350
 BoxCollider:
   m_ObjectHideFlags: 0
