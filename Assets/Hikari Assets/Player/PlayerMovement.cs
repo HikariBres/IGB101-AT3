@@ -41,7 +41,7 @@ public class PlayerMovement : MonoBehaviour{
     }
     
     private void Jumping(){
-        if (Input.GetKey("z")){
+        if (Input.GetKey("space")){
             anim.SetBool("Jumping", true);
         } else if (Input.GetKeyUp("z")){
             anim.SetBool("Jumping", false);

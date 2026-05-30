@@ -6,16 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Hikari Scene.unity
-    guid: 57da0c191e45f994e950366058f3f5b5
-  - enabled: 1
-    path: Assets/Scenes/testScene.unity
-    guid: 9ee489d88bf660a4e9f7fa3fae4f7779
-  - enabled: 1
     path: Assets/Scenes/RonanScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/Scenes/Hikari Scene.unity
+    guid: 57da0c191e45f994e950366058f3f5b5
+  - enabled: 1
     path: Assets/Scenes/Tara - Assignment.unity
     guid: 9a595806250f36d47acff2aea0243a92
+  - enabled: 0
+    path: Assets/Scenes/testScene.unity
+    guid: 9ee489d88bf660a4e9f7fa3fae4f7779
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
